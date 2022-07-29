@@ -1,23 +1,19 @@
 ---
-title: Basic Data Structures
+title: Week 1
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Aug 15th
+: **Input and Output**
+  : [slides](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Aug 16th
+: **Lab1**
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Aug 17th
+: **Booleans and Conditionals**
+  : [slides](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Aug 19th
+: **Logical Operators**
+  : [slides](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }

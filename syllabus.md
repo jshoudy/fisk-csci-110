@@ -121,7 +121,7 @@ This course website, [csci110.org](https://www.csci110.org), will be your one-st
 You will get a link to sign up for this tool when we begin class. We will use Replit for editing code and turning in assignments. Note that Replit may display a “grade” for you, but the official one is in Canvas.
 
 **Piazza**
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://piazza.com/fisk/fall2022/csci110/home).
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://piazza.com/fisk/fall2022/csci110/home). A helpful intro video on how to use Piazza [can be found here](https://www.youtube.com/watch?v=tqGummy1Be4&list=PLEOX0FOixqJ4gJEWOelsBJBQ1mD05ZUKC).
 
 **Canvas**
 Your official class midterm and final grades will be published in Canvas. You should already have a Canvas account. Get in touch with your advisor if you can't access the course on Canvas. Other than occasionally syncing grades to Canvas, we will not be using it.

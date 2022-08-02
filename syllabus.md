@@ -98,9 +98,13 @@ These details are subject to change during the semester, however the current pla
 Assignments will be due at 11:59pm, with a 10% penalty per each day that the assignment is late up to 5 days total. Everyone gets 2 free late days that do not count against them. Late days can be used on homeworks but not on projects.
 
 ### Exams
-Instead of one midterm and one final exam, this course will have 3 exams, spaced roughly evenly across the semester, with the third exam happening during finals week. Exam 1 will be on Wednesday, September 14th. Exam 2 is will be on Friday, October 28th. Exam 3 will take place during finals week. Each exam will be worth an increased percentage of the final grade to reward students that make progress throughout the semester. 
+Instead of one midterm and one final exam, this course will have 3 exams, spaced roughly evenly across the semester, with the third exam happening during finals week.
+- Exam 1 will be on Wednesday, September 14th.
+- Exam 2 will be on Friday, October 28th.
+- Exam 3 will take place during finals week.
 
-For each of the midterm exams, if a student brings a missed question to instructor office hours and thoroughly explains the correct answer, they may earn 50% of the missed points back for that question.
+Each exam will be worth an increased percentage of the final grade to reward students that make progress throughout the semester. For each of the midterm exams, if a student brings a missed question to instructor office hours and thoroughly explains the correct answer, they may earn 50% of the missed points back for that question.
+
 ### Cheating
 
 For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. Additionally the internet is a great source for getting help when your stuck but **you may *not* copy and paste code directly from the internet.** It can be tempting to cheat. Know that all code submitted to Replit will be run through a very good plagiarism detector.
@@ -117,11 +121,8 @@ If I ask you how your code works and you do not know, it will be evident that yo
 
 This course website, [csci110.org](https://www.csci110.org), will be your one-stop resource for the syllabus, schedule, slides, and assignment links. Additionally, we will be using the following software.
 
-**Replit**
-You will get a link to sign up for this tool when we begin class. We will use Replit for editing code and turning in assignments. Note that Replit may display a “grade” for you, but the official one is in Canvas.
-
-**Piazza**
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://piazza.com/fisk/fall2022/csci110/home). A helpful intro video on how to use Piazza [can be found here](https://www.youtube.com/watch?v=tqGummy1Be4&list=PLEOX0FOixqJ4gJEWOelsBJBQ1mD05ZUKC).
+**Ed**
+You will get a link to sign up for this tool when we begin class. We will use Ed for editing code, turning in assignments, taking quizzes & tests, and as our main tool for communication/class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TAs, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Ed. You can sign up for the Ed by [clicking this link](https://edstem.org/us/join/SJtPSB) and using your @fisk.edu email to sign up. Note that any "grade" you see in Ed is not official.
 
 **Canvas**
 Your official class midterm and final grades will be published in Canvas. You should already have a Canvas account. Get in touch with your advisor if you can't access the course on Canvas. Other than occasionally syncing grades to Canvas, we will not be using it.

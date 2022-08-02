@@ -30,10 +30,8 @@ permalink: pretty
 aux_links:
   Python Tutor:
     - 'https://pythontutor.com/visualize.html'
-  Replit:
-    - 'https://replit.com/team/csci110-01'
-  Piazza:
-    - 'https://piazza.com/fisk/fall2022/csci110/home'
+  Ed:
+    - 'https://edstem.org/us/courses/24414'
 footer_content:
 
 # Collections for website data

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Schedule
+title: Calendar
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
+# Class Calendar
 
 Lectures, labs, office hours, exams, and other events can be found on this calendar.
 

@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-For a quicker response on homework or project help, please ask on [Piazza](https://piazza.com/fisk/fall2022/csci110/home) rather than emailing staff members individually. On Piazza, all staff members can see your question and answer it.
+For a quicker response on homework or project help, please ask on [Ed](https://edstem.org/us/courses/24414) rather than emailing staff members individually. On Ed, all staff members (and students!) can see your question and answer it.
 
 ## Instructors
 

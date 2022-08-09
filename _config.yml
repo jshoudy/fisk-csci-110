@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Youtube:
+    - 'https://www.youtube.com/channel/UCNuCvuEr87KJ5ZjrEG2ZciA'
   Python Tutor:
     - 'https://pythontutor.com/visualize.html'
   Ed:

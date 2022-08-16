@@ -8,7 +8,8 @@ Aug 15th
 
 Aug 16th
 : **Lab**
-  : [[lab](#)]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/41905/slides/237186)]
+: **HW**{: .label .label-blue }HW 1 released [[Ed](https://edstem.org/us/courses/24414/lessons/42063/slides/239009)]
 
 Aug 17th
 : **Booleans and Conditionals**

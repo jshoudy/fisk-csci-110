@@ -51,13 +51,12 @@ There are a lot of opportunities for technology internships designed specificall
 
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
 - [Google Summer of Code](https://summerofcode.withgoogle.com/){:target="_blank"}
-- [Explore Microsoft](https://careers.microsoft.com/us/en/job/1080729/Explore-Intern-Opportunities){:target="_blank"}
-- [Facebook University](https://www.facebook.com/careers/jobs/532964131139722/){:target="_blank"}
+- [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students){:target="_blank"}
 - [Twitter Academy](https://twitteracademy21.splashthat.com/){:target="_blank"}
-- [Bank of America Global Technology Freshman Summer Analyst](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html){:target="_blank"}
-- [Amazon Propel Program](https://www.amazon.jobs/en/jobs/1714937/amazon-propel-program-app-internship-summer-2022-us){:target="_blank"}
+- [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity){:target="_blank"}
+- [Bank of America Global Technology Freshman Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/candidate/postings/7745){:target="_blank"}
+- [Amazon Propel Program](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us){:target="_blank"}
 - [Code2040 (for students who identify as Black/Latinx)](http://www.code2040.org/){:target="_blank"}
-- [Civic Digital Fellowship](https://www.codingitforward.com/civic-digital-fellowship){:target="_blank"}
 - [Dropbox Launch Program**](https://www.dropbox.com/jobs/teams/emerging-talent){:target="_blank"}
 - [REUs (Research Experience for Undergraduates)](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049){:target="_blank"}
 - [Pinterest Engage Scholars Program** (application in spring)](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/){:target="_blank"}

@@ -60,7 +60,7 @@ There are a lot of opportunities for technology internships designed specificall
 - [Dropbox Launch Program**](https://www.dropbox.com/jobs/teams/emerging-talent){:target="_blank"}
 - [REUs (Research Experience for Undergraduates)](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049){:target="_blank"}
 - [Pinterest Engage Scholars Program** (application in spring)](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/){:target="_blank"}
-
+- [Levels internship database](https://www.levels.fyi/internships/?track=Software%20Engineer&timeframe=2022%20%2F%202021)
 ### Creating a resume
 You can use [creddle.io](http://creddle.io/){:target="_blank"} for free resume templates! 
 

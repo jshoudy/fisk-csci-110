@@ -13,7 +13,7 @@ Aug 16th
 
 Aug 17th
 : **Booleans and Conditionals**
-  : [[slides](#)] [[video](#)]
+  : [[slides](https://docs.google.com/presentation/d/15PRZj_1ITAeiEbZWghwvHoF9dIrHXzXn/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Aug 19th
 : **Input/Output**

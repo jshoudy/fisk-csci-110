@@ -17,5 +17,5 @@ Aug 17th
 
 Aug 19th
 : **Input/Output**
-  : [[slides](#)] [[video](#)]
+  : [[slides](https://docs.google.com/presentation/d/1SUNAGEs5cHSfeGa3IZHWhA6mC1I6G8H2/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **Quiz**{: .label .label-yellow }Quiz 1 will be in the first 10 minutes of class!

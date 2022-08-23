@@ -9,8 +9,8 @@ Aug 22nd
 
 Aug 23rd
 : **Lab**
-  : [[lab](#)]
-: **HW**{: .label .label-blue }HW 2 released [[Ed](#)]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/42589/slides/244799)]
+: **HW**{: .label .label-blue }HW 2 released [[Ed](https://edstem.org/us/courses/24414/lessons/42594/slides/244817)]
 
 Aug 24th
 : **While Loops**

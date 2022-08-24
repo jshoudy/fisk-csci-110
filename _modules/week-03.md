@@ -14,9 +14,9 @@ Aug 23rd
 
 Aug 24th
 : **While Loops**
-  : [[slides](#)]
+  : [[slides](https://docs.google.com/presentation/d/1DcsfPw9NI7LFfZZFdPajF3GfvBxtNeB4/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Aug 26th
 : **Strings**
   : [[slides](#)]
-: **Quiz**{: .label .label-yellow }Quiz 2 will be in the first 15 minutes of class!
+: **Quiz**{: .label .label-yellow }Quiz 2 will be in the first 15 minutes of class! Meet in Lab (downstairs)

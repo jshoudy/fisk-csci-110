@@ -17,6 +17,6 @@ Aug 24th
   : [[slides](https://docs.google.com/presentation/d/1DcsfPw9NI7LFfZZFdPajF3GfvBxtNeB4/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Aug 26th
-: **Strings**
-  : [[slides](#)]
+: **While Loops Practice**
+  : [[Replit](https://replit.com/team/csci110-01)]
 : **Quiz**{: .label .label-yellow }Quiz 2 will be in the first 15 minutes of class! Meet in Lab (downstairs)

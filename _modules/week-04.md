@@ -9,7 +9,7 @@ Aug 29th
 
 Aug 30th
 : **Lab**
-  : [[lab](#)]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/42974/slides/249205)]
 
 Aug 31st
 : **Functions: imports & modules**

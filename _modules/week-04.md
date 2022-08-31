@@ -13,10 +13,10 @@ Aug 30th
 
 Aug 31st
 : **Functions: imports & modules**
-  : [[slides](#)]
+  : [[slides](https://docs.google.com/presentation/d/1TvR8Rg8w0TDAhtryIMRHfip00__RMKwe/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **HW**{: .label .label-blue }HW 3 released [[Ed](#)]
 
-Aug 26th
+Sept 2nd
 : **Functions: definitions**
   : [[slides](#)]
 : **Quiz**{: .label .label-yellow }Quiz 3 will be in the first 15 minutes of class! Meet in Lab (downstairs)

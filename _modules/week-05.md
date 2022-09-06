@@ -3,8 +3,8 @@ title: Week 5
 ---
 
 Sep 5th
-: **NO CLASS: Labor Day**
-  :
+: **NO CLASS**
+  : Labor Day
 : **Project**{: .label .label-purple }Project 1, part 3 released [[Ed](https://edstem.org/us/courses/24414/lessons/43487/slides/250850)]
 
 Sep 6th

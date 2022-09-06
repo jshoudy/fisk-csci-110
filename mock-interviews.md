@@ -29,9 +29,14 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 
 ### Mock Interviews with CSCI110 Google TAs
 
-Use the button below to sign up for a mock interview slot with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You may book as many interviews as you'd like for the remainder of the semester, just please book with a new person each time (as each interviewer likely has only one question they ask). Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
+Use the button below to sign up for a mock interview slot (or just career chat) with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You may book as many interviews as you'd like for the remainder of the semester. Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
 
-[Schedule a Mock Interview (link not yet live)](){: .btn .btn-outline }
+When booking an appointment please include in the appointment description the following information:
+- What you are looking for? (ex: mock interview, career advice, just to chat, etc.)
+- What year you are? (ex: Freshman, Senior, etc.)
+- If looking for a mock interview what level of quesiton would you like? (Google STEP, Google SWE intern, Google SWE full-time)
+
+[Schedule a Mock Interview](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUc3XzFQOGd3R2wyfGRlZmF1bHR8ZDA5YThiMTdmNzA1YmRjN2VjODEwOTY4NWI1MWMxOTM){: .btn .btn-outline }
 
 If after one mock interview you want further experience, consider spending 2-3 weeks working on practice problems and then schedule a second session with a different interviewer.
 

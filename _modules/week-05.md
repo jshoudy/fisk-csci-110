@@ -12,12 +12,12 @@ Sep 6th
   : [[lab](https://replit.com/team/csci110-01)] On Replit this week
 
 Sep 7th
-: **Functions: testing & Debugging**
-  : [[slides](#)]
+: **Functions: Testing**
+  : [[slides](https://docs.google.com/presentation/d/1tsQ_nxztufQ3xnTFq1lECvaZsT2R4w1T/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **HW**{: .label .label-blue }HW 4 released [[Ed](#)]
 
 Sept 9th
-: **Style Guide**
+: **Debugging & Styling**
   : [[slides](#)]
 : **Quiz**{: .label .label-yellow }Quiz 4 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 

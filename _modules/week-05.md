@@ -14,7 +14,7 @@ Sep 6th
 Sep 7th
 : **Functions: Testing**
   : [[slides](https://docs.google.com/presentation/d/1tsQ_nxztufQ3xnTFq1lECvaZsT2R4w1T/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
-: **HW**{: .label .label-blue }HW 4 released [[Ed](#)]
+: **HW**{: .label .label-blue }HW 4 released [[Ed](https://edstem.org/us/courses/24414/lessons/43715/slides/252114)]
 
 Sept 9th
 : **Debugging & Styling**

@@ -18,6 +18,6 @@ Sep 7th
 
 Sept 9th
 : **Debugging & Styling**
-  : [[slides](#)]
+  : [[slides](https://docs.google.com/presentation/d/1ZnXpFt4AR5gzAXi_UinOqR-GWBsZbKkl/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **Quiz**{: .label .label-yellow }Quiz 4 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 

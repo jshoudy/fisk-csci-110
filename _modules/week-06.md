@@ -8,11 +8,10 @@ Sep 5th
 
 Sep 6th
 : **Exam Practice**
-  : [[lab](#)]
+  : [[practice](#)]
 
 Sep 7th
 : **Exam 1**
-  :
 : **Exam**{: .label .label-red } Meet in lab downstairs!
 
 Sept 9th

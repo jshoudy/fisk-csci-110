@@ -15,5 +15,5 @@ Sep 7th
 : **Exam**{: .label .label-red } Meet in lab downstairs!
 
 Sept 9th
-: **Styling and Terminal**
+: **For Loops**
   : [[slides](#)]

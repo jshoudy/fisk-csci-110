@@ -8,7 +8,7 @@ Sep 5th
 
 Sep 6th
 : **Exam Practice**
-  : [[practice](#)]
+  : [[practice](https://edstem.org/us/courses/24414/lessons/44105/slides/254965)]
 
 Sep 7th
 : **Exam 1**

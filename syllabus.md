@@ -141,7 +141,7 @@ Cheating is not tolerated. If you are caught cheating:
  - 1st time: automatic 0 for copier and copied (if applicable)
  - 2nd time: automatic failure in the course
 
-For exams & quizzes cheating activities include but are not limited to conferring with one another during a test by text messaging, talking, hand signals, roaming eyes, and other signals. Do not allow others to look at your answers.
+For exams & quizzes cheating activities include but are not limited to conferring with one another during a test by text messaging, talking, hand signals, roaming eyes, and other signals. Do not allow others to look at your answers. Additionally running the code from a code analysis question (either within Ed or in an outside IDE like Replit or PyCharm) is cheating.
 
 For projects and homeworks cheating will be determined by the automatic plagiarism detector and manually reviewed by the instructor. If I ask you how your code works and you do not know, it will be evident that you have copied it.
 

@@ -17,3 +17,4 @@ Sep 7th
 Sept 9th
 : **For Loops**
   : [[slides](https://docs.google.com/presentation/d/1NIS0-eXZa54uqHhKR4z9aNegCkkW0ttm/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
+: **HW**{: .label .label-blue }HW 5 released [[Ed](https://edstem.org/us/courses/24414/lessons/44373/slides/256069)]

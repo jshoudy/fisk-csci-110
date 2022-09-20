@@ -9,7 +9,7 @@ Sep 19th
 
 Sep 20th
 : **Lab**
-  : [[lab](#)]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/44179/slides/255174)]
 
 Sep 21st
 : **Lists: Mutability**

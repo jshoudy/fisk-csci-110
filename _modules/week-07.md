@@ -13,7 +13,7 @@ Sep 20th
 
 Sep 21st
 : **Lists: Mutability**
-  : [[slides](#)]
+  : [[slides](https://docs.google.com/presentation/d/1foTZUPebr1XSWKYk_ls6uJNOFA1NvP_S/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **HW**{: .label .label-blue }HW 6 released [[Ed](#)]
 
 Sept 23rd

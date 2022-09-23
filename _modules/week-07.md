@@ -18,7 +18,7 @@ Sep 21st
 
 Sept 23rd
 : **Style Guide**
-  : [[slides](#)]
+  : [[slides](https://docs.google.com/presentation/d/1j3Nt4i1dtOk7XDUbkgqBO1Q5romIDknm/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **Quiz**{: .label .label-yellow }Quiz 5 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 
 

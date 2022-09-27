@@ -7,7 +7,7 @@ Sep 26th
 
 Sep 27th
 : **NO IN PERSON LAB. DO ON YOUR OWN.**
-  : [[lab](#)]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/45141/slides/259200)]
 
 Sep 29th
 : **2D Lists and Databases**

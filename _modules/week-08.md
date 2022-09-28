@@ -10,7 +10,7 @@ Sep 27th
   : [[lab](https://edstem.org/us/courses/24414/lessons/45141/slides/259200)]
 
 Sep 29th
-: **2D Lists and Databases**
+: **2D Lists**
   : [[slides](https://docs.google.com/presentation/d/1EGj7Mul7PrMrUy83UmGyicPR_OO7ejpC/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **HW**{: .label .label-blue }HW 7 released [[Ed](#)]
 

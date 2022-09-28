@@ -11,7 +11,7 @@ Sep 27th
 
 Sep 29th
 : **2D Lists and Databases**
-  : [[slides](#)]
+  : [[slides](https://docs.google.com/presentation/d/1EGj7Mul7PrMrUy83UmGyicPR_OO7ejpC/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **HW**{: .label .label-blue }HW 7 released [[Ed](#)]
 
 Sept 30th

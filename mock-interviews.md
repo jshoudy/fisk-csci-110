@@ -56,7 +56,9 @@ There are a lot of opportunities for technology internships designed specificall
 
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
 - [Google Summer of Code](https://summerofcode.withgoogle.com/){:target="_blank"}
-- [Explore Microsoft](https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students){:target="_blank"}
+- [Explore Microsoft](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram){:target="_blank"}
+- [UberSTAR](https://university-uber.icims.com/jobs/116956/job?iis=marketing&iisn=TheMuse&iisp=paid&rx_job=116956&rx_medium=post&rx_paid=1&rx_r=none&rx_source=themuse&rx_ts=20220913T225001Z&rx_viewer=09038a8433d911edada3e5cb0c31c84689c3f1c526634ce9956b19d91209de0f&mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420){:target="_blank"}
+- [Capital One](https://www.capitalonecareers.com/job/mclean/university-technology-incubator-intern-spring-2023/31238/36291684368){:target="_blank"}
 - [Twitter Academy](https://twitteracademy21.splashthat.com/){:target="_blank"}
 - [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity){:target="_blank"}
 - [Bank of America Global Technology Freshman Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/candidate/postings/7745){:target="_blank"}

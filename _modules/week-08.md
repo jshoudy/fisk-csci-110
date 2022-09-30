@@ -15,6 +15,6 @@ Sep 29th
 : **HW**{: .label .label-blue }HW 7 released [[Ed](#)]
 
 Sept 30th
-: **2D Lists and Nested Loops**
-  : [[slides](#)]
+: **2D Lists: Nested Loops and Images**
+  : [[slides](https://docs.google.com/presentation/d/1SATz3PegqJ7-fzV4ebyMeW961dI72L3q/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 

@@ -12,7 +12,7 @@ Sep 27th
 Sep 29th
 : **2D Lists**
   : [[slides](https://docs.google.com/presentation/d/1EGj7Mul7PrMrUy83UmGyicPR_OO7ejpC/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
-: **HW**{: .label .label-blue }HW 7 released [[Ed](https://edstem.org/us/courses/24414/lessons/45366/edit/slides/260134)]
+: **HW**{: .label .label-blue }HW 7 released [[Ed](https://edstem.org/us/courses/24414/lessons/45366/slides/259945)]
 
 Sept 30th
 : **2D Lists: Nested Loops and Images**

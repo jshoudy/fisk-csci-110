@@ -14,8 +14,7 @@ Oct 4th
 
 Oct 5th
 : **Sets**
-  : [[slides](https://docs.google.com/presentation/d/1foTZUPebr1XSWKYk_ls6uJNOFA1NvP_S/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
-: **HW**{: .label .label-blue }HW 6 released [[Ed](https://edstem.org/us/courses/24414/lessons/45078/slides/258266)]
+  : [slides]
 
 Oct 7th
 : **Practice/work time**

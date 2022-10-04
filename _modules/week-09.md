@@ -10,7 +10,7 @@ Oct 3rd
 
 Oct 4th
 : **Lab**
-  : [lab]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/45345/slides/260695)]
 
 Oct 5th
 : **Big O Analysis**

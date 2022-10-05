@@ -14,7 +14,7 @@ Oct 4th
 
 Oct 5th
 : **Big O Analysis**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/1gNvyHOXN4Ugqq_vaXj8zUsemVturOz3U/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Oct 7th
 : **Sets**

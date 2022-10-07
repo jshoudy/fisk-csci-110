@@ -17,7 +17,7 @@ Oct 5th
   : [[slides](https://docs.google.com/presentation/d/1gNvyHOXN4Ugqq_vaXj8zUsemVturOz3U/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Oct 7th
-: **Sets**
-  : [slides]
+: **Big O Practice**
+  : [[slides](https://docs.google.com/presentation/d/1qZ7CRVUlK5mQPgJUOfe0tl3F3PU6V2Bn/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **Quiz**{: .label .label-yellow }Quiz 6 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 

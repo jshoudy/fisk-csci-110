@@ -128,7 +128,7 @@ The lowest 2 scores for homeworks and quizzes will be dropped, meaning they will
 ### Exams
 Instead of one midterm and one final exam, this course will have 3 exams, spaced roughly evenly across the semester, with the third exam happening during finals week.
 - Exam 1 will be on Wednesday, September 14th.
-- Exam 2 will be on Friday, October 28th.
+- Exam 2 will be on Wednesday, October 26th.
 - Exam 3 will take place during finals week.
 
 Each exam will be worth an increased percentage of the final grade to reward students that make progress throughout the semester.

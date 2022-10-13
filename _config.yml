@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Grading Rubrics:
+    - 'https://drive.google.com/drive/folders/1mHYxvMOzYoVztKcIc0qOg9dFSmIfw1WO?usp=sharing'
   Style Guide:
     - 'https://docs.google.com/document/d/1BtuiFLmkvkrxVxd8zYWg60QcnH8hjN3w/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true'
   Python Tutor:

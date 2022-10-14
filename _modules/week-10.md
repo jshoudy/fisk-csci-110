@@ -14,5 +14,5 @@ Oct 12th
 : **HW**{: .label .label-blue }HW 8 released [[Ed](https://edstem.org/us/courses/24414/lessons/46029/slides/263350)]
 
 Oct 13th
-: **Dictionaries: Intro**
-  : [slides]
+: **Dictionaries**
+  : [[slides](https://docs.google.com/presentation/d/1g5cwQk0d9pq8B0BFOuxW54Il2A4OZdpc/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]

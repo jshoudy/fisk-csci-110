@@ -9,7 +9,7 @@ Oct 17th
 
 Oct 18th
 : **Lab**
-  : [lab]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/46053/slides/264957)]
 
 Oct 19th
 : **Nested Dictionaries**

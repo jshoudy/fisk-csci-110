@@ -13,7 +13,7 @@ Oct 18th
 
 Oct 19th
 : **Nested Dictionaries**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/1Fze31eHr1Klt6daCgc58ieyG5wpvJ412/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Oct 21st
 : **Terminal**

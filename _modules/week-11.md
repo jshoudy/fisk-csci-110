@@ -17,6 +17,6 @@ Oct 19th
 
 Oct 21st
 : **Terminal**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/1CjExdH0xWrqv83L8mSuo83iKcJTK9u6k/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **Quiz**{: .label .label-yellow }Quiz 7 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 

@@ -8,7 +8,7 @@ Oct 24th
 
 Oct 25th
 : **Exam Practice**
-  : [practice]
+  : [[practice](https://edstem.org/us/courses/24414/lessons/46948/slides/268362)]
 
 Oct 26th
 : **Exam 2**

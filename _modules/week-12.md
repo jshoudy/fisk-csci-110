@@ -16,4 +16,4 @@ Oct 26th
 
 Oct 28th
 : **Scope and Pass by Reference**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/1ZWIHS5wUyS9NCPAjj4e6Z4s2ZBDRMc3v/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]

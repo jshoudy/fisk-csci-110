@@ -13,10 +13,10 @@ Nov 1st
 
 Nov 2nd
 : **Classes**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/1Qhj3LUEj2yux0AkY2sEUWdXctMlliD7Q/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Nov 4th
-: **OOP: Intro**
+: **OOP**
   : [slides]
 : **Quiz**{: .label .label-yellow }Quiz 8 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 

@@ -12,11 +12,11 @@ Nov 1st
 : **Lab (Review of Midterm 2)**
 
 Nov 2nd
-: **Classes**
+: **Classes: Attributes**
   : [[slides](https://docs.google.com/presentation/d/1Qhj3LUEj2yux0AkY2sEUWdXctMlliD7Q/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Nov 4th
-: **OOP**
-  : [slides]
+: **Classes: Methods**
+  : [[slides](https://docs.google.com/presentation/d/1z_ia-MmKxvv8XRig4Z1o1X719nZ0LZ12/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **Quiz**{: .label .label-yellow }Quiz 8 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 

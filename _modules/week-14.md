@@ -9,7 +9,7 @@ Nov 7th
 
 Nov 8th
 : **Interview Prep Workshop**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/1whXFyh4dI63zqpgU2za3T-SewiN-oSJa/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Nov 9th
 : **Tech Talk Week: Day 2**

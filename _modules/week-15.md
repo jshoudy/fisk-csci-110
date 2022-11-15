@@ -9,7 +9,7 @@ Nov 14th
 
 Nov 15th
 : **Lab**
-  : [lab]
+  : [[lab](https://edstem.org/us/courses/24414/lessons/48166/slides/275142)]
 
 Nov 16th
 : **Recursion**

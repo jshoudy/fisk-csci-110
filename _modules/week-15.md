@@ -13,7 +13,7 @@ Nov 15th
 
 Nov 16th
 : **Recursion**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/1McfvWphUi077O2BoIjf-PL3EclFhmfxQ/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 
 Nov 18th
 : **Syntactic Sugar**

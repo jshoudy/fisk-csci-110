@@ -17,6 +17,6 @@ Nov 16th
 
 Nov 18th
 : **Syntactic Sugar**
-  : [slides]
+  : [[slides](https://docs.google.com/presentation/d/14g4zj3CyPB9jWf2FBbwyb6qnB5DJ50vZ/edit?usp=sharing&ouid=114310739312164916072&rtpof=true&sd=true)]
 : **Quiz**{: .label .label-yellow }Quiz 10 will be in the first 15 minutes of class! Meet in Lab (downstairs)
 
